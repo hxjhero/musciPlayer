@@ -1,1 +1,1 @@
-# musciPlayer
+# MusicPlayer
